@@ -7,7 +7,7 @@ lead: "@tech-lead"
 sprint: S1
 sprint_start: 2026-03-02
 sprint_end: 2026-03-13
-depends_on: []            # e.g. [nuoform, ai-rise]
+depends_on: [ai-rise]            # e.g. [nuoform, ai-rise]
 tags: []                  # e.g. [frontend, ml, mvp]
 ---
 
