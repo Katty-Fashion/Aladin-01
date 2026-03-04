@@ -11,4 +11,4 @@ sprint_end: 2026-03-13
 | :--- | :--- | :--- | :--- |
 | Project setup | @lead | 1d | Done |
 | Initial architecture | @tech-lead | 2d | In Progress |
-| Documentation | @developer | 1d | Todo |
+| Documentation | @developer | 2d | Todo |
