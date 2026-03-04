@@ -1,8 +1,14 @@
----
-project: PROJECT-TEMPLATE
+------
+project: Project-Template
+description: "Short project description"
+type: saas                # saas | eu-project | internal
+po: "@product-owner"
+lead: "@tech-lead"
 sprint: S1
 sprint_start: 2026-03-02
 sprint_end: 2026-03-13
+depends_on: []            # e.g. [nuoform, ai-rise]
+tags: []                  # e.g. [frontend, ml, mvp]
 ---
 
 # Project Kanban
@@ -11,4 +17,4 @@ sprint_end: 2026-03-13
 | :--- | :--- | :--- | :--- |
 | Project setup | @lead | 1d | Done |
 | Initial architecture | @tech-lead | 2d | In Progress |
-| Documentation | @developer | 2d | Todo |
+| Documentation | @developer | 1d | Todo |
