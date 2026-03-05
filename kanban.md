@@ -1,6 +1,6 @@
 ---
-project: project-template
-description: "KF Team project template"
+project: Aladin-01
+description: "Aladin-01 Team project template"
 type: internal
 po: "@cpto"
 lead: "@tech-lead"
